@@ -1,0 +1,11 @@
+{
+  "name": "Demo Theme",
+  "dark": true,
+  "author": "Me",
+  "editorScheme": "/META-INF/Demo_Theme.xml",
+  "ui": {
+    "*": {
+      "border": "#ff0000"
+    }
+  }
+}
